@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fayzul Islam Faisal</h1>
-<h3 align="center">Frontend Developer | React • Next.js • React Native</h3>
+<h3 align="center">Software Engineer | React • Next.js • React Native</h3>
 
 <p align="center">
   Passionate about building scalable, modern, and high-performance web & mobile applications.
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 💻 Frontend Developer focused on modern JavaScript ecosystems
+- 💻 Software Engineer focused on modern JavaScript ecosystems
 - ⚛️ Specialized in React.js, Next.js, and React Native
 - 🎨 Passionate about clean UI/UX and responsive design
 - 📚 Currently learning scalable architecture & advanced frontend patterns
