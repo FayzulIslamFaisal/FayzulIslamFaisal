@@ -65,6 +65,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=FayzulIslamFaisal&theme=tokyonight&hide_border=true" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=FayzulIslamFaisal&theme=tokyonight)](https://git.io/streak-stats)
 </p>
 
 ---
