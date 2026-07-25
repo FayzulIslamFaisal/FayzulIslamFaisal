@@ -39,7 +39,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 ---
 
